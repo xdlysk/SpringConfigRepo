@@ -1,0 +1,4 @@
+spring:
+  datasource:
+    username: test
+    password: '{cipher}AQArjWADfeuVu93dOun57RCe2nKqnIQmHSS1Rr8N+hcq/yoeXobyv+OLXcaC4x5k+SlkUQ3HbwkF3/ki7yqsM3dEf6Uu0pZ3NyC98YE2+9zyahSdFy4FwEO/0nQ0lEliHfUZEWgwQqmbZ1TUAN+pPHr0T/78mQq0rc6ZOCcH97YtLosmzKHTDvvin0N7ji6oOu8zjRd95H47q7luGtdhrtIEYQ6tW+q8CFKhmgO5bTmvTxmOhxp5p311bZTm/05bmEp3z5gI4RuH67QlmSPdXOlK+mQ7UE26KwsS2dNn1kNq98v7qFtI0vB6FxQf3muM1/o+IOpdQ+faOa5reRTrNb/t9l0Ox3TyO6wxD6GTkwN5cKd6fICL7q2LJ5eEH/ZqbVNy6iVOSr3ifxxg23S5D6uR'
